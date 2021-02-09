@@ -1,0 +1,18 @@
+{
+  "name": "assignment1.1",
+  "version": "1.0.0",
+  "description": "FsOperationsWithYargs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "313087edurekanodejs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "current-line": "^1.0.1",
+    "yargs": "^16.2.0"
+  }
+}
